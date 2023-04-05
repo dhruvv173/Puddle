@@ -4,7 +4,7 @@ To run this project locally on your system run the following commands
 
 ```
 git clone https://github.com/dhruvv173/Puddle
-cd puddle
+cd puddle/puddle
 pip install -r requirements.txt
 python manage.py runserver
 ```
